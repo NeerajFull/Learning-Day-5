@@ -6,7 +6,7 @@
    - https://leetcode.com/problems/product-of-array-except-self/
    - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
   
-2. JS Core Questions
+2. ✅ JS Core Questions
    - https://www.youtube.com/watch?v=36wckftSIWs&list=PLQOMi2yb4hF0xc__bNw-S9WIwK9fWdvgM&index=15
    - https://www.youtube.com/watch?v=FIb7wnYazsc&list=PLQOMi2yb4hF0xc__bNw-S9WIwK9fWdvgM&index=14
   
